@@ -75,7 +75,7 @@ By default, the base `Auth` class is used in the `WebsocketAuthProtocol` instanc
  - websockets natively supports redirects, auth flows are always restarted if a redirect occurs and the Authorization header is stripped from the request
 ## Supports
  - python >=3.7
- - websockets==10.1
+ - websockets>=10.1
 
 		
 
